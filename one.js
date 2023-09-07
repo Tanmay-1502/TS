@@ -1,0 +1,11 @@
+var word = "Hello World";
+console.log(word);
+var age = 21;
+var feedback = true;
+var dob = new Date('7-9-2023');
+var another = 12;
+another = "change to text no problem";
+var noChange = 100;
+var word2;
+word2 = "Define value later";
+console.log(typeof (feedback));
